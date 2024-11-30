@@ -18,4 +18,8 @@ My journey in information system Engineering has led me to develop a passion for
 
 Currently im studying on hack the box academy platform,right now im in section bug hunter that make me familiar and hands on practice in labs eg linux,directory,api,javascript...etc.
 
+##FREE TIME
+
+In my free time i play CTF challenges (capture the flag:Exercise for ethical hackers to think out of the box).in websites like :picogym,hacker101,htblabs, and im so interested int it because it gives you a variety of way to see stuff and it gives alots of catagory like reverse engineering , cryptography , forensics , binary exploitation ...etc and its funn.
+
 
